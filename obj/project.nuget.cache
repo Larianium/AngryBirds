@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hiznKm3/bXlb4x0dnWQW/S+W3Bodnrzt4Cg1pUtMBXn4YiQkGCdwKm4w6UXlypJPN9ULqeOoeInJ2HpNAovEyg==",
+  "dgSpecHash": "8RyrIv4Hw2xb95Wz7DzOuclIkKKsbCWJEZCWBILa5mVQ+KR9dnmyAABm3+JO4Tdm3O4CSPsgqoVlfCNGWkFhng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleshkin\\My projects\\Ulearn_Tests\\AngryBirds\\AngryBirds.csproj",
+  "projectFilePath": "c:\\Users\\aleshkin\\My projects\\Ulearn_Tests\\AngryBirds\\AngryBirds.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleshkin\\.nuget\\packages\\avalonia\\0.10.13\\avalonia.0.10.13.nupkg.sha512",
     "C:\\Users\\aleshkin\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2020091801\\avalonia.angle.windows.natives.2.1.0.2020091801.nupkg.sha512",

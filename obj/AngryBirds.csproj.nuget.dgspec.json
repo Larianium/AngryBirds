@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleshkin\\My projects\\Ulearn_Tests\\AngryBirds\\AngryBirds.csproj": {}
+    "c:\\Users\\aleshkin\\My projects\\Ulearn_Tests\\AngryBirds\\AngryBirds.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleshkin\\My projects\\Ulearn_Tests\\AngryBirds\\AngryBirds.csproj": {
+    "c:\\Users\\aleshkin\\My projects\\Ulearn_Tests\\AngryBirds\\AngryBirds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleshkin\\My projects\\Ulearn_Tests\\AngryBirds\\AngryBirds.csproj",
+        "projectUniqueName": "c:\\Users\\aleshkin\\My projects\\Ulearn_Tests\\AngryBirds\\AngryBirds.csproj",
         "projectName": "AngryBirds",
-        "projectPath": "C:\\Users\\aleshkin\\My projects\\Ulearn_Tests\\AngryBirds\\AngryBirds.csproj",
+        "projectPath": "c:\\Users\\aleshkin\\My projects\\Ulearn_Tests\\AngryBirds\\AngryBirds.csproj",
         "packagesPath": "C:\\Users\\aleshkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleshkin\\My projects\\Ulearn_Tests\\AngryBirds\\obj\\",
+        "outputPath": "c:\\Users\\aleshkin\\My projects\\Ulearn_Tests\\AngryBirds\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleshkin\\AppData\\Roaming\\NuGet\\NuGet.Config"

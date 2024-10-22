@@ -12,10 +12,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AngryBirds
-build_property.ProjectDir = C:\Users\aleshkin\My projects\Ulearn_Tests\AngryBirds\
+build_property.ProjectDir = c:\Users\aleshkin\My projects\Ulearn_Tests\AngryBirds\
 
-[C:/Users/aleshkin/My projects/Ulearn_Tests/AngryBirds/UI/App.axaml]
+[c:/Users/aleshkin/My projects/Ulearn_Tests/AngryBirds/UI/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/aleshkin/My projects/Ulearn_Tests/AngryBirds/UI/MainWindow.axaml]
+[c:/Users/aleshkin/My projects/Ulearn_Tests/AngryBirds/UI/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
